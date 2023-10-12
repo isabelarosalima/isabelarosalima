@@ -1,5 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/isabelarosalima/isabelarosalima/assets/142421678/1e56b081-9e0f-41df-b33e-f9222156b7d5" />
+
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/isabelarosalima/isabelarosalima/assets/142421678/31a97561-70b0-4fbf-84e9-955bc0070305" />
 &nbsp;&nbsp;&nbsp;
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=35&duration=3500&pause=1000&color=6C3578&background=FFA8E400&center=true&vCenter=true&random=false&width=1000&height=100&lines=HELLO%2C+My+name+is+Isabela+Rosa;I%60m+19+years+old;I'm+studying+systems+analysis+and+development+;I'm+always+learning+something+new;Be+welcome!!+S2" alt="Typing SVG" /></a>
 
