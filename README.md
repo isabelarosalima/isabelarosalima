@@ -11,6 +11,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelarosalima&layout=donut&langs_count=8&card_width=320" />
 </a>
 
+<div align = "left">  
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=isabelarosalima&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelarosalima&show_icons=true&theme=bear&count_private=true"/>
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isabelarosalima&bg_color=auto&color=dfd0e2&line=6c3578&point=dfd0e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A0128&height=120&section=footer"/>
