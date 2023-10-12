@@ -10,4 +10,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isabelarosalima&bg_color=auto&color=1e8447&line=6c3578&point=1e8447&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=1E8449&height=120&fontSize=90)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D0449&height=120&section=footer"/>
