@@ -10,6 +10,16 @@ Aprendendo sobre API´s, Arduinos e muito mais!
 
  &nbsp;
  &nbsp;
+ <div> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = ""> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isabelarosalima&bg_color=auto&color=dfd0e2&line=6c3578&point=dfd0e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ## Meus contatos!!
 
@@ -19,8 +29,6 @@ Aprendendo sobre API´s, Arduinos e muito mais!
 <a href = ""> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isabelarosalima&bg_color=auto&color=dfd0e2&line=6c3578&point=dfd0e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Studying in this moment: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
