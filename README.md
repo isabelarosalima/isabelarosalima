@@ -1,6 +1,7 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/isabelarosalima/isabelarosalima/assets/142421678/a6ad948e-eda8-4806-babe-b9a1bf08573e" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/isabelarosalima/isabelarosalima/assets/142421678/533371be-daa4-4b04-ab13-2d91c8f8eada" />
 &nbsp;&nbsp;&nbsp;
+
 
 
 
